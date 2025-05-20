@@ -1,0 +1,114 @@
+[
+  {
+    "$type": "FinalProject.BasicReminder, FinalProject",
+    "ID": "539c47ce-e8e4-4309-905e-e09cacff4e35",
+    "notifiers": [
+      {
+        "$type": "FinalProject.Notifier.DesktopNotifier, FinalProject"
+      }
+    ],
+    "title": "Call AHA",
+    "content": "",
+    "time": "2025-04-30T13:00:21.8474464+05:30",
+    "schedule": {
+      "repeatString": 0,
+      "timeOfDay": "00:00:00",
+      "daysOfWeek": [],
+      "startDate": null,
+      "endDate": null
+    }
+  },
+  {
+    "$type": "FinalProject.BasicReminder, FinalProject",
+    "ID": "60024160-77b7-4949-a95e-6ea6639c3b80",
+    "notifiers": [
+      {
+        "$type": "FinalProject.Notifier.DesktopNotifier, FinalProject"
+      }
+    ],
+    "title": "Call Contractor",
+    "content": "",
+    "time": "2025-04-30T13:34:08.8688548+05:30",
+    "schedule": {
+      "repeatString": 0,
+      "timeOfDay": "00:00:00",
+      "daysOfWeek": [],
+      "startDate": null,
+      "endDate": null
+    }
+  },
+  {
+    "$type": "FinalProject.CompositeReminder, FinalProject",
+    "reminders": [
+      {
+        "$type": "FinalProject.BasicReminder, FinalProject",
+        "ID": "539c47ce-e8e4-4309-905e-e09cacff4e35",
+        "notifiers": [
+          {
+            "$type": "FinalProject.Notifier.DesktopNotifier, FinalProject"
+          }
+        ],
+        "title": "Call AHA",
+        "content": "",
+        "time": "2025-04-30T13:00:21.8474464+05:30",
+        "schedule": {
+          "repeatString": 0,
+          "timeOfDay": "00:00:00",
+          "daysOfWeek": [],
+          "startDate": null,
+          "endDate": null
+        }
+      },
+      {
+        "$type": "FinalProject.BasicReminder, FinalProject",
+        "ID": "60024160-77b7-4949-a95e-6ea6639c3b80",
+        "notifiers": [
+          {
+            "$type": "FinalProject.Notifier.DesktopNotifier, FinalProject"
+          }
+        ],
+        "title": "Call Contractor",
+        "content": "",
+        "time": "2025-04-30T13:34:08.8688548+05:30",
+        "schedule": {
+          "repeatString": 0,
+          "timeOfDay": "00:00:00",
+          "daysOfWeek": [],
+          "startDate": null,
+          "endDate": null
+        }
+      }
+    ],
+    "ID": "c38cf444-613d-42a7-a2c7-45a67827da38",
+    "notifiers": [
+      {
+        "$type": "FinalProject.Notifier.DesktopNotifier, FinalProject"
+      }
+    ],
+    "title": "Compo",
+    "content": "test",
+    "time": "2025-04-30T13:44:38",
+    "schedule": {
+      "repeatString": 0,
+      "timeOfDay": "00:00:00",
+      "daysOfWeek": [],
+      "startDate": null,
+      "endDate": null
+    }
+  },
+  {
+    "$type": "FinalProject.BasicReminder, FinalProject",
+    "ID": "d3fb732d-3469-45dd-aa7f-a9b4107fd521",
+    "notifiers": [],
+    "title": "Google reminder",
+    "content": "",
+    "time": "2025-04-30T14:30:00",
+    "schedule": {
+      "repeatString": 0,
+      "timeOfDay": "00:00:00",
+      "daysOfWeek": [],
+      "startDate": null,
+      "endDate": null
+    }
+  }
+]

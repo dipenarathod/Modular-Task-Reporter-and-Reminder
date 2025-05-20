@@ -1,0 +1,72 @@
+F:\CSharp Projects\Final Project\Final Project - Attempt 1\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+F:\CSharp Projects\Final Project\Final Project - Attempt 1\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+F:\CSharp Projects\Final Project\Final Project - Attempt 1\FinalProject\FinalProject\obj\Debug\FinalProject.exe.config
+F:\CSharp Projects\Final Project\Final Project - Attempt 1\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\obj\Debug\FinalProject.exe.config
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\obj\Debug\FinalProject.DynamicPluginForm.resources
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\obj\Debug\FinalProject.MainForm.resources
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\obj\Debug\FinalProject.PluginConfigForm.resources
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\obj\Debug\FinalProject.ReminderForm.resources
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\obj\Debug\FinalProject.ReportForm.resources
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\Aspose.Email.dll
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\Google.Apis.dll
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\Google.Apis.pdb
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\Google.Apis.Auth.dll
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\Google.Apis.Auth.pdb
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\Google.Apis.Calendar.v3.dll
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\Google.Apis.Calendar.v3.pdb
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\Google.Apis.Core.dll
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\Google.Apis.Core.pdb
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\Ical.Net.dll
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\Newtonsoft.Json.dll
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\NodaTime.dll
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\NodaTime.pdb
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\bin\Debug\System.ValueTuple.dll
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\obj\Debug\FinalPro.8C09D514.Up2Date
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+F:\CSharp Projects\Final Project\Final Project - Attempt 2\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\Aspose.Email.dll
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\Google.Apis.dll
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\Google.Apis.pdb
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\Google.Apis.Core.dll
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\Ical.Net.dll
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\NodaTime.dll
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\NodaTime.pdb
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\obj\Debug\FinalProject.exe.config
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\obj\Debug\FinalProject.DynamicPluginForm.resources
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\obj\Debug\FinalProject.MainForm.resources
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\obj\Debug\FinalProject.PluginConfigForm.resources
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\obj\Debug\FinalProject.ReminderForm.resources
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\obj\Debug\FinalProject.ReportForm.resources
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\obj\Debug\FinalPro.8C09D514.Up2Date
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Admin\Downloads\SWENG 421\Final Project\Final Phase\Final Project - Code Submission\FinalProject\FinalProject\obj\Debug\FinalProject.pdb

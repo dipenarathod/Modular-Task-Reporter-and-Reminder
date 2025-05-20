@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81117647-B9EE-4D22-BFC1-E6A9DBE1D6D7}|FinalProject\\FinalProject.csproj|c:\\users\\admin\\downloads\\sweng 421\\final project\\final phase\\final project - code submission\\finalproject\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81117647-B9EE-4D22-BFC1-E6A9DBE1D6D7}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81117647-B9EE-4D22-BFC1-E6A9DBE1D6D7}|FinalProject\\FinalProject.csproj|C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\finalproject\\reminder\\compositereminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81117647-B9EE-4D22-BFC1-E6A9DBE1D6D7}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\reminder\\compositereminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81117647-B9EE-4D22-BFC1-E6A9DBE1D6D7}|FinalProject\\FinalProject.csproj|C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\finalproject\\report\\compositereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81117647-B9EE-4D22-BFC1-E6A9DBE1D6D7}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\report\\compositereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81117647-B9EE-4D22-BFC1-E6A9DBE1D6D7}|FinalProject\\FinalProject.csproj|C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\finalproject\\reminderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81117647-B9EE-4D22-BFC1-E6A9DBE1D6D7}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\reminderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81117647-B9EE-4D22-BFC1-E6A9DBE1D6D7}|FinalProject\\FinalProject.csproj|C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\finalproject\\information collector\\information collector plugins\\weathercollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81117647-B9EE-4D22-BFC1-E6A9DBE1D6D7}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\information collector\\information collector plugins\\weathercollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81117647-B9EE-4D22-BFC1-E6A9DBE1D6D7}|FinalProject\\FinalProject.csproj|C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\finalproject\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81117647-B9EE-4D22-BFC1-E6A9DBE1D6D7}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompositeReport.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\FinalProject\\Report\\CompositeReport.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Report\\CompositeReport.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\FinalProject\\Report\\CompositeReport.cs",
+              "RelativeToolTip": "FinalProject\\Report\\CompositeReport.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:47:41.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompositeReminder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\FinalProject\\Reminder\\CompositeReminder.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Reminder\\CompositeReminder.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\FinalProject\\Reminder\\CompositeReminder.cs",
+              "RelativeToolTip": "FinalProject\\Reminder\\CompositeReminder.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:46:56.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\FinalProject\\Program.cs",
+              "RelativeToolTip": "FinalProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:46:25.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherCollector.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\FinalProject\\Information Collector\\Information Collector Plugins\\WeatherCollector.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Information Collector\\Information Collector Plugins\\WeatherCollector.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\FinalProject\\Information Collector\\Information Collector Plugins\\WeatherCollector.cs",
+              "RelativeToolTip": "FinalProject\\Information Collector\\Information Collector Plugins\\WeatherCollector.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowGIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:29:29.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\FinalProject\\ReportForm.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\FinalProject\\ReportForm.cs",
+              "RelativeToolTip": "FinalProject\\ReportForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:42:19.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReminderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\FinalProject\\ReminderForm.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ReminderForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\SWENG 421\\Final Project\\Final Phase\\Final Project - Code Submission\\FinalProject\\FinalProject\\ReminderForm.cs",
+              "RelativeToolTip": "FinalProject\\ReminderForm.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAUwAUBAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:41:13.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

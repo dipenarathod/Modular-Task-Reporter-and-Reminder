@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{81117647-B9EE-4D22-BFC1-E6A9DBE1D6D7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FinalProject</RootNamespace>
+    <AssemblyName>FinalProject</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\AppDataStore.cs" />
+    <Compile Include="Common\ConfigurablePluginIF.cs" />
+    <Compile Include="Common\ExternalReminderFactory.cs" />
+    <Compile Include="Common\ExternalReminderManagerIF.cs" />
+    <Compile Include="Common\NotificationManager.cs" />
+    <Compile Include="Common\ReminderFactory.cs" />
+    <Compile Include="Common\RepeatSchedule.cs" />
+    <Compile Include="Common\ReportFactory.cs" />
+    <Compile Include="Common\SchedulableIF.cs" />
+    <Compile Include="DynamicPluginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DynamicPluginForm.Designer.cs">
+      <DependentUpon>DynamicPluginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information Collector\Information Collector Plugins\WeatherCollector.cs" />
+    <Compile Include="Information Collector\AbsInformationCollector.cs" />
+    <Compile Include="Information Collector\InformationCollectorFactory.cs" />
+    <Compile Include="Information Collector\InformationCollectorIF.cs" />
+    <Compile Include="Notifier\AbsNotifier.cs" />
+    <Compile Include="Notifier\Notifier Plugins\DesktopNotifier.cs" />
+    <Compile Include="Notifier\Notifier Plugins\EmailNotifier.cs" />
+    <Compile Include="Notifier\NotifierFactory.cs" />
+    <Compile Include="Notifier\NotifierIF.cs" />
+    <Compile Include="PluginConfigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PluginConfigForm.Designer.cs">
+      <DependentUpon>PluginConfigForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ReminderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReminderForm.Designer.cs">
+      <DependentUpon>ReminderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reminder\AbsExternalReminder.cs" />
+    <Compile Include="Reminder\AbsReminder.cs" />
+    <Compile Include="Reminder\BasicReminder.cs" />
+    <Compile Include="Reminder\CompositeReminder.cs" />
+    <Compile Include="Reminder\ExternalReminderIF.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reminder\Reminder Plugins\GoogleCalendarReminders.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reminder\ReminderIF.cs" />
+    <Compile Include="Reminder\UniversalReminderIF.cs" />
+    <Compile Include="ReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm.Designer.cs">
+      <DependentUpon>ReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\AbsReport.cs" />
+    <Compile Include="Report\BasicReport.cs" />
+    <Compile Include="Report\CompositeReport.cs" />
+    <Compile Include="Report\ReportIF.cs" />
+    <EmbeddedResource Include="DynamicPluginForm.resx">
+      <DependentUpon>DynamicPluginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PluginConfigForm.resx">
+      <DependentUpon>PluginConfigForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReminderForm.resx">
+      <DependentUpon>ReminderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm.resx">
+      <DependentUpon>ReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Aspose.Email">
+      <Version>25.3.0</Version>
+    </PackageReference>
+    <PackageReference Include="Google.Apis.Calendar.v3">
+      <Version>1.69.0.3667</Version>
+    </PackageReference>
+    <PackageReference Include="Ical.Net">
+      <Version>4.3.1</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Toolkit.Uwp.Notifications">
+      <Version>7.1.3</Version>
+    </PackageReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

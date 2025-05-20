@@ -1,0 +1,196 @@
+[
+  {
+    "$type": "FinalProject.Report.BasicReport, FinalProject",
+    "ID": "f32311fe-dd65-4044-ba5e-e9dad7602d77",
+    "notifiers": [
+      {
+        "$type": "FinalProject.Notifier.DesktopNotifier, FinalProject"
+      }
+    ],
+    "plugins": [
+      {
+        "$type": "FinalProject.Information_Collector_Plugins.WeatherCollector, FinalProject",
+        "apiKey": "3ea1ffa4cb8bec5bf3d26fd23e01cdcd",
+        "source": "Weather Collector",
+        "ID": "d7aba84b-acf5-47e7-8f66-95ef0b81dbb6",
+        "title": "Weather Report - New York, United States",
+        "description": "Weather in New York, United States\novercast clouds\nTemperature: 18.61 Celsius\nFeels like Temperature: 18.43 Celsius\nHumidity: 73%",
+        "requiredParameters": {
+          "apiKey": "3ea1ffa4cb8bec5bf3d26fd23e01cdcd"
+        },
+        "optionalParameters": {},
+        "runtimeRequiredParameters": {
+          "city": "New York",
+          "country": "United States"
+        },
+        "runtimeOptionalParameters": {
+          "units": ""
+        }
+      }
+    ],
+    "title": "New York Weather",
+    "content": "",
+    "time": "2025-04-30T13:00:37",
+    "schedule": {
+      "repeatString": 0,
+      "timeOfDay": "00:00:00",
+      "daysOfWeek": [],
+      "startDate": null,
+      "endDate": null
+    }
+  },
+  {
+    "$type": "FinalProject.Report.BasicReport, FinalProject",
+    "ID": "6560f7ce-5f34-4028-9965-6c770890cb00",
+    "notifiers": [],
+    "plugins": [
+      {
+        "$type": "FinalProject.Information_Collector_Plugins.WeatherCollector, FinalProject",
+        "apiKey": "3ea1ffa4cb8bec5bf3d26fd23e01cdcd",
+        "source": "Weather Collector",
+        "ID": "fc67f457-5f78-4cb5-bfa4-7a5d4e186b1d",
+        "title": "Weather Report - Mumbai, India",
+        "description": "Weather in Mumbai, India\nclear sky\nTemperature: 29.05 Celsius\nFeels like Temperature: 32.11 Celsius\nHumidity: 66%",
+        "requiredParameters": {
+          "apiKey": "3ea1ffa4cb8bec5bf3d26fd23e01cdcd"
+        },
+        "optionalParameters": {},
+        "runtimeRequiredParameters": {
+          "city": "Mumbai",
+          "country": "India"
+        },
+        "runtimeOptionalParameters": {
+          "units": ""
+        }
+      }
+    ],
+    "title": "Mumbai Weather",
+    "content": "",
+    "time": "2025-04-30T13:01:42.8700704+05:30",
+    "schedule": {
+      "repeatString": 0,
+      "timeOfDay": "00:00:00",
+      "daysOfWeek": [],
+      "startDate": null,
+      "endDate": null
+    }
+  },
+  {
+    "$type": "FinalProject.Report.CompositeReport, FinalProject",
+    "reports": [
+      {
+        "$type": "FinalProject.Report.BasicReport, FinalProject",
+        "ID": "f32311fe-dd65-4044-ba5e-e9dad7602d77",
+        "notifiers": [
+          {
+            "$type": "FinalProject.Notifier.DesktopNotifier, FinalProject"
+          }
+        ],
+        "plugins": [
+          {
+            "$type": "FinalProject.Information_Collector_Plugins.WeatherCollector, FinalProject",
+            "apiKey": "3ea1ffa4cb8bec5bf3d26fd23e01cdcd",
+            "source": "Weather Collector",
+            "ID": "d7aba84b-acf5-47e7-8f66-95ef0b81dbb6",
+            "title": "Weather Report - New York, United States",
+            "description": "Weather in New York, United States\novercast clouds\nTemperature: 18.61 Celsius\nFeels like Temperature: 18.43 Celsius\nHumidity: 73%",
+            "requiredParameters": {
+              "apiKey": "3ea1ffa4cb8bec5bf3d26fd23e01cdcd"
+            },
+            "optionalParameters": {},
+            "runtimeRequiredParameters": {
+              "city": "New York",
+              "country": "United States"
+            },
+            "runtimeOptionalParameters": {
+              "units": ""
+            }
+          }
+        ],
+        "title": "New York Weather",
+        "content": "",
+        "time": "2025-04-30T13:00:37",
+        "schedule": {
+          "repeatString": 0,
+          "timeOfDay": "00:00:00",
+          "daysOfWeek": [],
+          "startDate": null,
+          "endDate": null
+        }
+      },
+      {
+        "$type": "FinalProject.Report.BasicReport, FinalProject",
+        "ID": "6560f7ce-5f34-4028-9965-6c770890cb00",
+        "notifiers": [],
+        "plugins": [
+          {
+            "$type": "FinalProject.Information_Collector_Plugins.WeatherCollector, FinalProject",
+            "apiKey": "3ea1ffa4cb8bec5bf3d26fd23e01cdcd",
+            "source": "Weather Collector",
+            "ID": "fc67f457-5f78-4cb5-bfa4-7a5d4e186b1d",
+            "title": "Weather Report - Mumbai, India",
+            "description": "Weather in Mumbai, India\nclear sky\nTemperature: 29.05 Celsius\nFeels like Temperature: 32.11 Celsius\nHumidity: 66%",
+            "requiredParameters": {
+              "apiKey": "3ea1ffa4cb8bec5bf3d26fd23e01cdcd"
+            },
+            "optionalParameters": {},
+            "runtimeRequiredParameters": {
+              "city": "Mumbai",
+              "country": "India"
+            },
+            "runtimeOptionalParameters": {
+              "units": ""
+            }
+          }
+        ],
+        "title": "Mumbai Weather",
+        "content": "",
+        "time": "2025-04-30T13:01:42.8700704+05:30",
+        "schedule": {
+          "repeatString": 0,
+          "timeOfDay": "00:00:00",
+          "daysOfWeek": [],
+          "startDate": null,
+          "endDate": null
+        }
+      }
+    ],
+    "ID": "be867670-df3f-44c0-a31f-4e7585397310",
+    "notifiers": [
+      {
+        "$type": "FinalProject.Notifier.Notifier_Plugins.EmailNotifier, FinalProject"
+      }
+    ],
+    "plugins": [
+      {
+        "$type": "FinalProject.Information_Collector_Plugins.WeatherCollector, FinalProject",
+        "apiKey": null,
+        "source": "Weather Collector",
+        "ID": "47e31740-2ad6-458a-9153-f8540ff610b9",
+        "title": null,
+        "description": null,
+        "requiredParameters": {
+          "apiKey": "3ea1ffa4cb8bec5bf3d26fd23e01cdcd"
+        },
+        "optionalParameters": {},
+        "runtimeRequiredParameters": {
+          "city": "Delhi",
+          "country": "India"
+        },
+        "runtimeOptionalParameters": {
+          "units": ""
+        }
+      }
+    ],
+    "title": "Composite",
+    "content": "",
+    "time": "2025-04-30T13:44:23",
+    "schedule": {
+      "repeatString": 0,
+      "timeOfDay": "00:00:00",
+      "daysOfWeek": [],
+      "startDate": null,
+      "endDate": null
+    }
+  }
+]

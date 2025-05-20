@@ -1,0 +1,4 @@
+{ 
+    "Desktop Notifier": "FinalProject.Notifier.DesktopNotifier",
+    "Email Notifier": "FinalProject.Notifier.Notifier_Plugins.EmailNotifier"
+}
